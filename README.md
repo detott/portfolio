@@ -9,7 +9,7 @@
 - Clusters identified with poisson spatial scan
 - South-Central Colorado has a cluster of excess opioid overdose deaths
 
-![](https://github.com/dani-totten/portfolio/blob/main/images/od_deathrate_map.png)
+![](https://github.com/dani-totten/portfolio/blob/main/images/od_death_rate_scaled.png)
 
 # [Project 2: Time Series Analysis - Cocoa Futures Prices](https://github.com/dani-totten/time_series_cocoa)
 - Data collected from Yahoo! Finance, Jan 2010-February 2020 with ~250 trading days per year
