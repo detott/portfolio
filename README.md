@@ -16,15 +16,13 @@
 - Models attempted include ARIMA, dynamic regression, neural net, random walk, time series + ARIMA and random walk
 - identified strong autocorrelation, high volatility and a small but statistically significant effect of El Nino/La Nina on cocoa priced
 
-![])https://github.com/dani-totten/portfolio/blob/main/images/time_series.png)
+![](https://github.com/dani-totten/portfolio/blob/main/images/time_series.png)
 
 # [Project 3: Gradient Boosted Regression - King County Housing Prices](https://github.com/dani-totten/gbm)
 - Data from Kaggle of 19,933 housing prices in Seattle area
 - 3/4 training, 1/4 test
 - Grew 5000 trees based on 14 predictors
 - learning rates of 1, 0.1, 0.01. Best predictions came from lambda = 0.1
-
-![](https://github.com/dani-totten/portfolio/blob/main/images/MSE_red_trees.png)
 
 ![](https://github.com/dani-totten/portfolio/blob/main/images/sample_simple_tree.png)
 
