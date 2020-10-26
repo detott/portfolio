@@ -1,5 +1,5 @@
-# portfolio
-Portfolio of projects
+# Dani Totten's Project Portfolio
+
 
 # [Project 1: Spatial Statistics - Opioid Deaths in Colorado](https://github.com/dani-totten/spatial_stats)
 - Poisson GLM model of expected overdose deaths by county in Colorado, covariates based on CDC research
@@ -18,7 +18,7 @@ Portfolio of projects
 - Grew 5000 trees based on 14 predictors
 - learning rates of 1, 0.1, 0.01. Best predictions came from lambda = 0.1
 
-# Project 4: Extreme Value Theory - GEV distribution goodness-of-fit to order statistic
+# [Project 4: Extreme Value Theory - GEV distribution goodness-of-fit to order statistic](https://github.com/dani-totten/masters_project)
 - Master's project in statistics, Fall 2020
 - Generalized extreme value (GEV) distribution for modeling behavior in model tails
 - Extremal types theorem is like the central limit theory, but for maxima in a given period
