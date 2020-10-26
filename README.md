@@ -4,7 +4,7 @@ Portfolio of projects
 # dani_portfolio
 Dani Totten's portfolio
 
-# Project 1: Spatial Statistics - Opioid Deaths in Colorado
+# [Project 1: Spatial Statistics - Opioid Deaths in Colorado](https://github.com/dani-totten/spatial_stats)
 - Poisson GLM model of expected overdose deaths by county in Colorado, covariates based on CDC research
 - Evidence of Spatial Autocorrelation tested with Moran's-I based
 - p-values calculated based on 500 Monte Carlo simulations
