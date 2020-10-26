@@ -2,10 +2,12 @@
 
 
 # [Project 1: Spatial Statistics - Opioid Deaths in Colorado](https://github.com/dani-totten/spatial_stats)
+# Opioid deaths in Colorado
 - Poisson GLM model of expected overdose deaths by county in Colorado, covariates based on CDC research
-- Evidence of Spatial Autocorrelation tested with Moran's-I based
-- p-values calculated based on 500 Monte Carlo simulations
-- Clusters identified with cluster evaluation permutation procedure
+- Evidence of Spatial Autocorrelation tested with Moran's-I, global statistic that identifies whether or not spatial autocorrelation is present anywhere
+- p-values for Moran's-I calculated based on 500 Monte Carlo simulations
+- Clusters identified with poisson spatial scan
+- South-Central Colorado has a cluster of excess opioid overdose deaths
 ![](https://github.com/dani-totten/portfolio/blob/main/images/od_deathrate_map.png)
 ![](https://github.com/dani-totten/portfolio/blob/main/images/spatial_side_by_side.png)
 # [Project 2: Time Series Analysis - Cocoa Futures Prices](https://github.com/dani-totten/time_series_cocoa)
