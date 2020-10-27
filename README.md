@@ -25,3 +25,4 @@
 - Best predictions came from lambda = 0.1
 
 ![](https://github.com/dani-totten/portfolio/blob/main/images/sample_simple_tree.png)
+* Example of simplified decision tree with random sample of n=100 observations, 2 predictors (land area and number of bedrooms) and stopping criteria of split with less than 20 observations*.
