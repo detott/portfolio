@@ -8,6 +8,7 @@
 - South-Central Colorado has a cluster of excess opioid overdose deaths
 
 ![](https://github.com/dani-totten/portfolio/blob/main/images/od_death_rate_scaled.png)
+* Overdose deaths in Colorado
 
 # [Project 2: Time Series Analysis - Cocoa Futures Prices](https://github.com/dani-totten/time_series_cocoa)
 - Data collected from Yahoo! Finance, Jan 2010-February 2020 with ~250 trading days per year
@@ -15,6 +16,7 @@
 - Identified strong autocorrelation, high volatility and a small but statistically significant effect of El Nino/La Nina on cocoa priced
 
 ![](https://github.com/dani-totten/portfolio/blob/main/images/time_series.png)
+* Forecasted adjusted daily closing price*
 
 # [Project 3: Gradient Boosted Regression - King County Housing Prices](https://github.com/dani-totten/gbm)
 - Data from Kaggle of 19,933 housing prices in Seattle area
