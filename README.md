@@ -7,14 +7,14 @@
 - Clusters identified with poisson spatial scan
 - South-Central Colorado has a cluster of excess opioid overdose deaths
 
-![](https://github.com/dani-totten/portfolio/blob/main/images/od_death_rate_scaled.png)
+![](https://github.com/dani-totten/portfolio/raw/main/images/od_death_rate_scaled.png)
 
 # [Project 2: Time Series Analysis - Cocoa Futures Prices](https://github.com/dani-totten/time_series_cocoa)
 - Data collected from Yahoo! Finance, Jan 2010-February 2020 with ~250 trading days per year
 - Models attempted include ARIMA, dynamic regression, neural net, random walk, time series + ARIMA and random walk
 - Identified strong autocorrelation, high volatility and a small but statistically significant effect of El Nino/La Nina on cocoa priced
 
-![](https://github.com/dani-totten/portfolio/blob/main/images/time_series.png)
+![](https://github.com/dani-totten/portfolio/raw/main/images/time_series.png)
 
 # [Project 3: Gradient Boosted Regression - King County Housing Prices](https://github.com/dani-totten/gbm)
 - Data from Kaggle of 19,933 housing prices in Seattle area
@@ -24,4 +24,4 @@
 - Learning rates of 1, 0.1, 0.01 to look for overfitting
 - Best predictions came from lambda = 0.1
 
-![](https://github.com/dani-totten/portfolio/blob/main/images/sample_simple_tree.png)
+![](https://github.com/dani-totten/portfolio/raw/main/images/sample_simple_tree.png)
